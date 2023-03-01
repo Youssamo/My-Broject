@@ -1,2 +1,4 @@
-# My-Broject
+# My-Project
 for learning
+
+## project notes
